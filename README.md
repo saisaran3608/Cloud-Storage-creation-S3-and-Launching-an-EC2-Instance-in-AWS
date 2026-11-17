@@ -1,4 +1,6 @@
 # Cloud-Storage-creation-S3-and-Launching-an-EC2-Instance-in-AWS
+NAME : SRI SAI SARAN G
+REG NO : 212225220103
 Ex.2 Cloud storage creation (S3) and launching an (Ec2) instance in AWS
 Aim:
 To create a Simple Storage Service (S3) in AWS and to launch an EC2 instance in AWS. 
@@ -56,31 +58,15 @@ Snap Shot 1: Simple Storage Service (S3)
 
 Snap Shot 2:  EC2 (Elastic Compute Cloud) – Instance
 
+Diagrams:
 
+<img width="960" height="540" alt="Screenshot 2026-11-02 123238" src="https://github.com/user-attachments/assets/1afc133f-5534-44eb-9a3e-984df2d7c2d0" />
 
+<img width="960" height="540" alt="Screenshot 2026-11-02 123823" src="https://github.com/user-attachments/assets/c2289975-eca9-4b8f-99f1-a92fa940f102" />
 
+<img width="960" height="540" alt="Screenshot 2026-11-02 123912" src="https://github.com/user-attachments/assets/65d49985-82d4-4f81-9e45-cf0f25f79e32" />
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+<img width="960" height="540" alt="Screenshot 2026-11-02 125534" src="https://github.com/user-attachments/assets/5ffa4dd1-b768-43ea-8ec5-513381a7dcde" />
 
 Result:
 Thus, a Simple Storage Service (S3) and EC2 (Elastic Compute Cloud) - instance has been successfully created and launched in AWS
